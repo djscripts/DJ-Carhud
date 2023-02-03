@@ -1,6 +1,8 @@
 # DJ-Carhud
 Simple Carhud for FiveM
 
+- Incluye Stream para eliminar las barras de vida del minimapa
+
 - Discord para más info y scripts --> https://discord.gg/gT7RYMtQkZ
 - Preview (vídeo):
 
