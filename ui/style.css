@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&display=swap');
+
+.body{
+    font-family: 'Heebo', sans-serif;
+	font-weight: 500;
+}
+
+.container{
+    position: absolute;
+    left: 50%;
+    bottom: 8%;
+    transform: translateX(-50%);
+    width: 8.3vw;
+    height: 4vw;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgb(229, 229, 234, .5);
+    background-color: rgba(28, 28, 30, .95);
+    border: 1px solid rgba(229, 229, 234, 1);
+}
+
+#velocidad{
+    position: absolute;
+    font-family: Heebo;
+    font-size: 45px;
+    color:rgba(229, 229, 234, 1);
+    left: 10%;
+    bottom: 5%;
+}
+
+#gasolina-icon{
+    position: absolute;
+    color: rgba(229, 229, 234, 1);
+    left: 71%;
+    bottom: 50%;
+    font-size: 14px;
+}
+
+#nofuel-icon{
+    position: absolute;
+    width: 20px;
+    left: 71%;
+    bottom: 50%;
+}
+
+#gasolina{
+    position: absolute;
+    font-family: Heebo;
+    font-size: 16px;
+    color: rgb(229, 229, 234);
+    left: 81%;
+    bottom: 43%;
+}
+
+#gears-icon{
+    position: absolute;
+    width: 15px;
+    left: 71%;
+    bottom: 20%;
+}
+
+#gears{
+    position: absolute;
+    font-family: Heebo;
+    font-size: 16px;
+    color: rgba(229, 229, 234, 1);
+    left: 85%;
+    bottom: 15%;
+}
