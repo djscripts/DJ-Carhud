@@ -1,5 +1,6 @@
 # DJ-Carhud
 Simple Carhud for FiveM
+- Script original de Jaareet#0542
 
 - Incluye Stream para eliminar las barras de vida del minimapa
 
